@@ -17,15 +17,15 @@ Ensure you have Python 3.10 or later installed.
 Install the following libraries using pip:
 
 ```
-pip install streamlit
 pip install matplotlib
 pip install pandas
 pip install numpy
+pip install seaborn
 ```
 
 ## Explanation
 
-- **Streamlit**: Provides a simple way to create interactive web applications with Python.
 - **Matplotlib**: Used for creating visualizations like plots and charts.
+- **Seaborn**: Used for creating visualizations like plots and charts.
 - **Pandas**: Offers data structures and analysis tools for working with tabular data.
 - **NumPy**: Provides efficient numerical operations and arrays.
